@@ -1,4 +1,4 @@
-# Todo list App
+# Todo List App 
 
 A simple todo list using Provider to implement State Management and Dependency Injection.
 
