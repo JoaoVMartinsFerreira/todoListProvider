@@ -1,0 +1,1 @@
+const String defaultErrorMessage = 'Algo deu errado, tente mais tarde.';
