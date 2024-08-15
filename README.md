@@ -6,7 +6,7 @@ A simple todo list using Provider to implement State Management and Dependency I
 
 # In this project I used:
 
- • State Managemente with Provider
+ • State Managemente with Provider \n
  • Storage with Flutter Secure Storage
  • Form validations
  • Dependency Managent
